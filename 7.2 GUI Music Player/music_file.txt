@@ -1,0 +1,12 @@
+1
+In Da Club (Album1)
+CryJaxx
+images/art-indaclub.jpeg
+3
+3
+Beep Test Track 1
+audio/test.wav
+InDaClub
+audio/InDaClub.wav
+Beep Test Track 3
+audio/test.wav
